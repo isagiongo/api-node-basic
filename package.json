@@ -1,0 +1,21 @@
+{
+  "name": "api-backend",
+  "version": "1.0.0",
+  "description": "API NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon src/index.js"
+  },
+  "keywords": [
+    "API",
+    "NodeJS"
+  ],
+  "author": "Isa Giongo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
